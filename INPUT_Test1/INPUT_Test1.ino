@@ -1,7 +1,7 @@
 const int buttonON = LOW;
 const int buttonOFF = HIGH;
 
-const int buttonPin = 9;
+const int buttonPin = 5;
 
 int buttonState = 0;
 

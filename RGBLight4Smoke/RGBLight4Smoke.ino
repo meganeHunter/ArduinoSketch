@@ -38,7 +38,7 @@ void loop()
 {
   cosRad += 0.1;
 
-  //delay(350);
+  delay(350);
   led2Value = abs(cos(cosRad  + 0.05)) * 255;
   delay(350);
   led4Value = abs(cos(cosRad  + 0.55)) * 255;

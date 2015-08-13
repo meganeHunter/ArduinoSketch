@@ -1,4 +1,4 @@
-const int fanPin = 4;
+const int fanPin = 1;
 const int ledPin = 13;
 
 int h = 0;

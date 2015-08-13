@@ -1,4 +1,4 @@
-int fanPin = 2;
+int fanPin = 11;
 
 void setup()
 {
